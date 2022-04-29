@@ -68,7 +68,7 @@
     }
   },
   "dependencies": {
-    "async": "2.1.2",
+    "async": "2.6.4",
     "auth0": "2.8.0",
     "auth0-extension-hapi-tools": "1.2.0",
     "auth0-extension-mongo-tools": "^0.1.0",
